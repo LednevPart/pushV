@@ -7,7 +7,7 @@ import Group from '@vkontakte/vkui/dist/components/Group/Group';
 import Cell from '@vkontakte/vkui/dist/components/Cell/Cell';
 import Div from '@vkontakte/vkui/dist/components/Div/Div';
 import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
-import imageFont from '../img/yGmxFwe.png';
+import imageFont from '../img/photo_2020-03-31_00-16-03.jpg';
 import './Persik.css';
 
 const myURL = new URL('https://auto.ru');
