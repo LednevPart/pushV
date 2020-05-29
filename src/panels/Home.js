@@ -26,7 +26,7 @@ const Home = ({ id, go}) => (
 
 			<Div>
 
-				<Button size="xl" level = "2" onClick={() => window.open('http://findtovar.ru/kMFVbC/crown', '_blank')}>
+				<Button size="xl" level = "2" onClick={() => window.open('http://game-sell.ru/xBI8FK/mother', '_blank')}>
 				Запустить
 				</Button>
 				
